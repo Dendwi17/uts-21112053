@@ -1,0 +1,2 @@
+D:/flutter/kisi-kisi-uts/uts_21112053/android/app/.cxx/Debug/115y485n/x86/CMakeFiles/edit_cache.dir
+D:/flutter/kisi-kisi-uts/uts_21112053/android/app/.cxx/Debug/115y485n/x86/CMakeFiles/rebuild_cache.dir
